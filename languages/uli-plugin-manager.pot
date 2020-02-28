@@ -1,0 +1,188 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Uli Plugin Manager\n"
+"POT-Creation-Date: 2020-02-28 02:30+0100\n"
+"PO-Revision-Date: 2020-02-28 02:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: uli-plugin-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: admin/class-uli-plugin-manager-admin.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:402
+msgid "have fun!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-uli-plugin-manager-required-plugins.php:406
+#: admin/class-uli-plugin-manager-required-plugins.php:407
+msgid "Uli Plugin Manager"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/class-uli-plugin-manager-required-plugins.php:409
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/class-uli-plugin-manager-required-plugins.php:411
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:412
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:415
+#, php-format
+msgid "Uli Plugin Manager requires the following plugin: %1$s."
+msgid_plural "Uli Plugin Manager requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:421
+#, php-format
+msgid "Uli Plugin Manager recommends the following plugin: %1$s."
+msgid_plural "Uli Plugin Manager recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:427
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:433
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:439
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-uli-plugin-manager-required-plugins.php:445
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:450
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:455
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:460
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:464
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:465
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:466
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-uli-plugin-manager-required-plugins.php:468
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-uli-plugin-manager-required-plugins.php:470
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: admin/class-uli-plugin-manager-required-plugins.php:472
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:473
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:474
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/class-uli-plugin-manager-required-plugins.php:475
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.ulisesfreitas.com/uli-plugin-manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"One plugin to rule them all, Uli Plugin Manager is a plugin that present a "
+"list of recommended plugins of wordpress.org, to make your life easier for "
+"install."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ulisesfreitas.com"
+msgstr ""

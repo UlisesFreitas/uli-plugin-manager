@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.column-plugin {
+    width: 33% !important;
+}
